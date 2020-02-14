@@ -12,7 +12,7 @@ def main():
 	# Code goes here
 
 if __name__ == "__main__":
-   main()'
+	main()'
 
 
 if [ $# -gt "0" ]
